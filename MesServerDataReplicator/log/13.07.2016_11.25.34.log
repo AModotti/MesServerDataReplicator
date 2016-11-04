@@ -1,0 +1,14 @@
+13.07.2016 11.25.34 ---> ***** Mes Database Synchronizer [ from: Oracle to: Mysql ] *****
+13.07.2016 11.25.34 ---> Indirizzo ip di destinazione: 192.168.100.6
+13.07.2016 11.25.34 ---> Inizio procedura di sincronizzazione...[ 13/07/2016 11.25.35 ]
+13.07.2016 11.25.34 ---> Importazione dati su tabella di frontiera: F0006F - [ Anagrafica Centri ]
+13.07.2016 11.25.34 ---> Pulitura tabella:
+13.07.2016 11.25.34 ---> .................................................................................................... [ OK ]
+13.07.2016 11.25.34 ---> Inserimento dati:
+13.07.2016 11.25.34 ---> .................................................................................................... [ OK ]
+13.07.2016 11.25.34 ---> Record inseriti: [ 93 ]
+13.07.2016 11.25.34 ---> Importazione dati su tabella di frontiera: F0101F - [ Rubrica Indirizzi ]
+13.07.2016 11.25.34 ---> Pulitura tabella:
+13.07.2016 11.25.34 ---> ... [ OK ]
+13.07.2016 11.25.34 ---> Inserimento dati:
+13.07.2016 11.25.34 ---> ... [   0 % ]

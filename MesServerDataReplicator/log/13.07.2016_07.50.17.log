@@ -1,0 +1,76 @@
+13.07.2016 07.50.17 ---> ***** Mes Database Synchronizer [ from: Oracle to: Mysql ] *****
+13.07.2016 07.50.17 ---> Indirizzo ip di destinazione: 192.168.100.6
+13.07.2016 07.50.17 ---> Inizio procedura di sincronizzazione...[ 13/07/2016 07.50.18 ]
+13.07.2016 07.50.17 ---> Importazione dati su tabella di frontiera: F0006F - [ Anagrafica Centri ]
+13.07.2016 07.50.17 ---> Pulitura tabella:
+13.07.2016 07.50.17 ---> Table 'MES.F0006F' doesn't exist
+13.07.2016 07.50.17 ---> ... [ OK ]
+13.07.2016 07.50.17 ---> Record inseriti: [ 0 ]
+13.07.2016 07.50.17 ---> Importazione dati su tabella di frontiera: F0101F - [ Rubrica Indirizzi ]
+13.07.2016 07.50.17 ---> Pulitura tabella:
+13.07.2016 07.50.17 ---> Table 'MES.F0101F' doesn't exist
+13.07.2016 07.50.17 ---> ... [ OK ]
+13.07.2016 07.50.17 ---> Record inseriti: [ 0 ]
+13.07.2016 07.50.17 ---> Importazione dati su tabella di frontiera: F4801F - [ Testate Ordini di Produzione 1 ]
+13.07.2016 07.50.17 ---> Pulitura tabella:
+13.07.2016 07.50.17 ---> Table 'MES.F4801F' doesn't exist
+13.07.2016 07.50.17 ---> ... [ OK ]
+13.07.2016 07.50.17 ---> Record inseriti: [ 0 ]
+13.07.2016 07.50.17 ---> Importazione dati su tabella di frontiera: F4801TF - [ Testate Ordini di Produzione 2 ]
+13.07.2016 07.50.17 ---> Pulitura tabella:
+13.07.2016 07.50.17 ---> Table 'MES.F4801TF' doesn't exist
+13.07.2016 07.50.17 ---> ... [ OK ]
+13.07.2016 07.50.17 ---> Record inseriti: [ 0 ]
+13.07.2016 07.50.17 ---> Importazione dati su tabella di frontiera: F3112F - [ Cicli Ordini di Produzione ]
+13.07.2016 07.50.17 ---> Pulitura tabella:
+13.07.2016 07.50.17 ---> Table 'MES.F3112F' doesn't exist
+13.07.2016 07.50.17 ---> ... [ OK ]
+13.07.2016 07.50.17 ---> Record inseriti: [ 0 ]
+13.07.2016 07.50.17 ---> Inizio procedura di elaborazione variazioni...
+13.07.2016 07.50.17 ---> Aggiornamento dati modificati tabella: F0006 - [ Anagrafica Centri ]
+13.07.2016 07.50.17 ---> Aggiornamento dati:
+13.07.2016 07.50.17 ---> ... [   0 % ]
+13.07.2016 07.50.17 ---> Table 'MES.F0006' doesn't exist
+13.07.2016 07.50.17 ---> Inserimento nuovi dati:
+13.07.2016 07.50.17 ---> Table 'MES.F0006' doesn't exist
+13.07.2016 07.50.17 ---> Cancellazione dati non necessari:
+13.07.2016 07.50.17 ---> ... [   0 % ]
+13.07.2016 07.50.17 ---> Table 'MES.F0006' doesn't exist
+13.07.2016 07.50.17 ---> Aggiornamento dati modificati tabella: F0101 - [ Rubrica Indirizzi ]
+13.07.2016 07.50.17 ---> Aggiornamento dati:
+13.07.2016 07.50.17 ---> ... [   0 % ]
+13.07.2016 07.50.17 ---> Table 'MES.F0101' doesn't exist
+13.07.2016 07.50.17 ---> Inserimento nuovi dati:
+13.07.2016 07.50.17 ---> Table 'MES.F0101' doesn't exist
+13.07.2016 07.50.17 ---> Cancellazione dati non necessari:
+13.07.2016 07.50.17 ---> ... [   0 % ]
+13.07.2016 07.50.17 ---> Table 'MES.F0101' doesn't exist
+13.07.2016 07.50.17 ---> Aggiornamento dati modificati tabella: F4801 - [ Testate Ordini di Produzione 1 ]
+13.07.2016 07.50.17 ---> Aggiornamento dati:
+13.07.2016 07.50.17 ---> ... [   0 % ]
+13.07.2016 07.50.17 ---> Table 'MES.F4801' doesn't exist
+13.07.2016 07.50.17 ---> Inserimento nuovi dati:
+13.07.2016 07.50.17 ---> Table 'MES.F4801' doesn't exist
+13.07.2016 07.50.17 ---> Cancellazione dati non necessari:
+13.07.2016 07.50.17 ---> ... [   0 % ]
+13.07.2016 07.50.17 ---> Table 'MES.F4801' doesn't exist
+13.07.2016 07.50.17 ---> Aggiornamento dati modificati tabella: F4801T - [ Testate Ordini di Produzione 2 ]
+13.07.2016 07.50.17 ---> Aggiornamento dati:
+13.07.2016 07.50.17 ---> ... [   0 % ]
+13.07.2016 07.50.17 ---> Table 'MES.F4801T' doesn't exist
+13.07.2016 07.50.17 ---> Inserimento nuovi dati:
+13.07.2016 07.50.17 ---> Table 'MES.F4801T' doesn't exist
+13.07.2016 07.50.17 ---> Cancellazione dati non necessari:
+13.07.2016 07.50.17 ---> ... [   0 % ]
+13.07.2016 07.50.17 ---> Table 'MES.F4801T' doesn't exist
+13.07.2016 07.50.17 ---> Aggiornamento dati modificati tabella: F2112 - [ Cicli Ordini di Produzione ]
+13.07.2016 07.50.17 ---> Aggiornamento dati:
+13.07.2016 07.50.17 ---> ... [   0 % ]
+13.07.2016 07.50.17 ---> Table 'MES.F3112' doesn't exist
+13.07.2016 07.50.17 ---> Inserimento nuovi dati:
+13.07.2016 07.50.17 ---> Table 'MES.F3112' doesn't exist
+13.07.2016 07.50.17 ---> Cancellazione dati non necessari:
+13.07.2016 07.50.17 ---> ... [   0 % ]
+13.07.2016 07.50.17 ---> Table 'MES.F3112' doesn't exist
+13.07.2016 07.50.17 ---> Fine procedura di sincronizzazione [ 13/07/2016 07.50.18 ]
+13.07.2016 07.50.17 ---> Durata procedura in secondi:  [ 0 ]
